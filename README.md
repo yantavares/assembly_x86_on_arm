@@ -1,4 +1,4 @@
-# Running x86 Assembly Code on ARM: A Simple Guide
+# Running x86 Assembly Code on ARM using Docker
 
 This guide is all about getting your i32 x86 assembly code up and running on ARM processors using the QEMU emulator. The focus here is on i32 assembly code, but you can tweak these steps for other types of assembly code too.
 
