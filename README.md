@@ -2,6 +2,8 @@
 
 This guide is all about getting your i32 x86 assembly code up and running on ARM processors using the QEMU emulator. The focus here is on i32 assembly code, but you can tweak these steps for other types of assembly code too.
 
+I made this repository to help me to run x86 assembly code on my Mac Silicon machine for a subject I'm taking at university. I hope it helps you too!
+
 ## What You Need Before Starting
 
 Make sure your system is set up with:
