@@ -1,4 +1,4 @@
-# Running x86 Assembly Code: Easy Steps
+# Running x86 Assembly Code
 
 After setting up your Docker environment by building the Docker image and starting the container, you've got two simple ways to work with your x86 assembly code. You can either use a ready-made script that does everything for you, or you can go through the steps manually for more control.
 
