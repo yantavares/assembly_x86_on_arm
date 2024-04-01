@@ -32,6 +32,8 @@ If you want to compile and run a different assembly file, just tell the script w
 
 This tells the script to work on `yourfilename.asm`, putting together all the necessary files in a special folder within `src`. It uses `nasm` to assemble the code and `ld` to link it, finishing off by running your code right in the Docker environment.
 
+You can test if the setup works by running the script with the default `main.asm` file or any other assembly file present in the `src` directory. Many examples are provided for you to try out.
+
 ## Doing It Yourself Step by Step
 
 Prefer to get your hands dirty and see how it all happens? Here's how to do it step by step:
