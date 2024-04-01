@@ -1,3 +1,4 @@
 #!/bin/bash
-docker run --rm -it --platform linux/amd64 -v /Users/yantavares/assembly_x86:/workspace assembly_x86_64_env
 
+# Run a Docker container with the current directory mounted to /workspace inside the container.
+docker run --rm -it --platform linux/amd64 -v "$(pwd)":/workspace assembly_x86_64_env
